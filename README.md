@@ -1,1 +1,1 @@
-# sql-project
+In this project, I designed and optimized complex SQL queries to extract and analyze sales and customer data for a retail company. I created functions to calculate fiscal years and quarters, enabling more accurate and dynamic reporting. My work involved generating detailed monthly sales reports and gross sales calculations, which enhanced the decision-making process for stakeholders. Through this project, I deepened my expertise in SQL, particularly in writing efficient queries, creating stored procedures, and utilizing functions for advanced data analysis.
